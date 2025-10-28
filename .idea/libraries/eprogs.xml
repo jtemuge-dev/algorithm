@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="eprogs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../eprogs" />
+      <root url="file://$PROJECT_DIR$/eprogs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../eprogs" />
+      <root url="file://$PROJECT_DIR$/eprogs" />
+    </SOURCES>
+  </library>
+</component>

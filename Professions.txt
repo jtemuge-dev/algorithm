@@ -1,0 +1,4 @@
+SW/Software
+CS/ComputerScience
+IT/InformationTechnology
+NS/NetworkSecurity

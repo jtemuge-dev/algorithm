@@ -1,0 +1,6 @@
+CSM203/DataStructure/3.0
+NSM230/Cryptography/3.0
+ITM204/DataBase System/3.0
+NSM201/ComputerNetwork/3.0
+ITM204/InformationSecurity/3.0
+DSM201/DiscreteStructure/3.0
