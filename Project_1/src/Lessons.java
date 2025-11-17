@@ -43,29 +43,3 @@ public class Lessons {
             return learned.code + " : " + score;
     }
 }
-
-
-
-
-
-
-
-
-
-
-//public class Lessons {
-//    public String learned;
-//    public float score;
-//
-//    public Lessons(String learned, float score) {
-//        this.learned = learned;
-//        this.score = score;
-//    }
-//
-//
-//
-//    @Override
-//    public String toString() {
-//        return learned + " / " + score;
-//    }
-//}
